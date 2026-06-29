@@ -104,7 +104,7 @@ export default function Home() {
 
         <p className="hero-sub">
           Type, speak, or paste — get instant, accurate translations
-          <br className="hide-mobile" /> powered by Microsoft Azure across 70+ languages.
+          <br className="hide-mobile" />  powered by Deep Translate API across 70+ languages.
         </p>
 
         {/* Animated language cycler */}
