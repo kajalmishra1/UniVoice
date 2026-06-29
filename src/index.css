@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  background-color: rgb(1, 1, 5);
+  color: white;
+  overflow-x: hidden;
+}
+
+.light body {
+  background-color: #eef1fb;
+  color: #1b1d2e;
+}
