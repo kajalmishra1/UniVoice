@@ -128,7 +128,7 @@ This project is deployed on **Vercel**.
 
 | Dark Mode | Light Mode |
 |---|---|
-| ![Dark Mode](https://via.placeholder.com/400x250/010105/5B8CFF?text=Dark+Mode) | ![Light Mode](https://via.placeholder.com/400x250/eef1fb/5B8CFF?text=Light+Mode) |
+| ![Dark Mode](https://via.placeholder.com/400x250/010105/5B8CFF?text=Dark+Mode) | ![Light Mode](https://github.com/kajalmishra1/UniVoice/blob/main/Screenshot%202026-07-02%20013949.png?raw=true) |
 
 ---
 
